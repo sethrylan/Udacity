@@ -16,4 +16,4 @@ def allmax(iterable, key=None):
 
 if __name__ == "__main__":
     allmax([1,1])
-    print "Hello World";
+
